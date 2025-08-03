@@ -35,15 +35,6 @@ const developer = {
 };
 ```
 -->
-
-## 🎯 What I do
-
-- 🔭 Currently working on **innovative full-stack projects**
-- 🌱 Learning **Cloud Computing** and **DevOps**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, software architecture**
-- ⚡ Fun fact: **I love solving complex problems with elegant code**
-
 ## 🛠️ Technologies & Tools
 
 ### Frontend
@@ -134,10 +125,4 @@ const developer = {
   ⭐️ From [zamir5895](https://github.com/zamir5895)
 </div>
 
-## 🎯 2025 Goals
 
-- [ ] Contribute to 5 open source projects
-- [ ] Launch my own web application
-- [ ] Learn Kubernetes and microservices
-- [ ] Get AWS certification
-- [ ] Write technical articles on my blog
