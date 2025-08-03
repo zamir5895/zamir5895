@@ -10,11 +10,11 @@
 const developer = {
     pronouns: "he/him",
     code: ["JavaScript", "Python", "Java", "TypeScript", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
+            css: ["Sass", "Tailwind"]
         },
         backEnd: {
             js: ["Node.js", "Express"],
@@ -22,7 +22,7 @@ const developer = {
             java: ["Spring Boot"],
             databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"]
         },
-        mobile: ["React Native", "Flutter"],
+        mobile: ["React Native"],
         devOps: ["Docker", "AWS", "Nginx"],
         tools: ["Git", "Webpack", "Vite", "Jest"]
     },
