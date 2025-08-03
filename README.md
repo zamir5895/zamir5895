@@ -5,8 +5,11 @@
 </div>
 
 ## 🚀 About me
-Third-year Computer Science student at UTEC 👨‍💻
+
+Third-year Computer Science student at UTEC 👨‍💻  
 Passionate about web development and ML.
+
+<!-- 
 ```javascript
 const developer = {
     pronouns: "he/him",
@@ -31,7 +34,15 @@ const developer = {
     currentFocus: "Building scalable web applications"
 };
 ```
+-->
 
+## 🎯 What I do
+
+- 🔭 Currently working on **innovative full-stack projects**
+- 🌱 Learning **Cloud Computing** and **DevOps**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **web development, software architecture**
+- ⚡ Fun fact: **I love solving complex problems with elegant code**
 
 ## 🛠️ Technologies & Tools
 
@@ -51,13 +62,13 @@ const developer = {
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-### Bases de Datos
+### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Herramientas
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -87,19 +98,19 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zamir5895&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎨 Some projects
+## 🎨 Some of my projects
 
 <div align="center">
   
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🚀 **Connect** | Aplicación full-stack moderna | React, Node.js, MongoDB |
-| 🎯 **Matemix** | Backend escalable y seguro | Python, FastAPI, PostgreSQL |
-| 🌐 **ShopUtec** | Plataforma de comercio electrónico | Next.js, Stripe, MySQL |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🚀 **Connect** | Modern full-stack application | React, Node.js, MongoDB |
+| 🎯 **Matemix** | Scalable and secure backend | Python, FastAPI, PostgreSQL |
+| 🌐 **ShopUtec** | E-commerce platform | Next.js, Stripe, MySQL |
 
 </div>
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
 <div align="center">
   
@@ -109,10 +120,10 @@ const developer = {
 
 </div>
 
-## 💭 Cita Favorita
+## 💭 Favorite Quote
 
 <div align="center">
-  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo."</i> - Cory House
+  <i>"Code is like humor. When you have to explain it, it's bad."</i> - Cory House
 </div>
 
 ---
@@ -122,3 +133,11 @@ const developer = {
   
   ⭐️ From [zamir5895](https://github.com/zamir5895)
 </div>
+
+## 🎯 2025 Goals
+
+- [ ] Contribute to 5 open source projects
+- [ ] Launch my own web application
+- [ ] Learn Kubernetes and microservices
+- [ ] Get AWS certification
+- [ ] Write technical articles on my blog
