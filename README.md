@@ -31,13 +31,6 @@ const developer = {
 };
 ```
 
-## 🎯 Lo que hago
-
-- 🔭 Actualmente trabajando en **proyectos full-stack innovadores**
-- 🌱 Aprendiendo **Cloud Computing** y **DevOps**
-- 👯 Buscando colaborar en **proyectos open source**
-- 💬 Pregúntame sobre **desarrollo web, arquitectura de software**
-- ⚡ Dato curioso: **Me encanta resolver problemas complejos con código elegante**
 
 ## 🛠️ Tecnologías & Herramientas
 
@@ -99,10 +92,9 @@ const developer = {
   
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🚀 **Proyecto Web** | Aplicación full-stack moderna | React, Node.js, MongoDB |
-| 📱 **App Móvil** | Desarrollo de aplicación móvil | React Native, Firebase |
-| 🎯 **API REST** | Backend escalable y seguro | Python, FastAPI, PostgreSQL |
-| 🌐 **E-commerce** | Plataforma de comercio electrónico | Next.js, Stripe, MySQL |
+| 🚀 **Connect** | Aplicación full-stack moderna | React, Node.js, MongoDB |
+| 🎯 **Matemix** | Backend escalable y seguro | Python, FastAPI, PostgreSQL |
+| 🌐 **ShopUtec** | Plataforma de comercio electrónico | Next.js, Stripe, MySQL |
 
 </div>
 
@@ -110,10 +102,9 @@ const developer = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamir-rogger-lizardo-mejia-32019b289/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://zamir-lizardo-mejia.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zamir.lizardo@utec.edu.pe)
 
 </div>
 
