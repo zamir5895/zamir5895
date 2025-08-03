@@ -1,11 +1,12 @@
-# 💫 Hola, soy Zamir! 
+# 💫 Hi, I am Zamir! 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Code+is+poetry" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre mí
-
+## 🚀 About me
+Third-year Computer Science student at UTEC 👨‍💻
+Passionate about web development and ML.
 ```javascript
 const developer = {
     pronouns: "he/him",
@@ -32,7 +33,7 @@ const developer = {
 ```
 
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Technologies & Tools
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -62,7 +63,7 @@ const developer = {
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zamir5895&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -76,17 +77,17 @@ const developer = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamir5895&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 Trofeos de GitHub
+## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zamir5895&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📈 Gráfico de Contribuciones
+## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zamir5895&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎨 Algunos de mis proyectos
+## 🎨 Some projects
 
 <div align="center">
   
@@ -98,7 +99,7 @@ const developer = {
 
 </div>
 
-## 🤝 Conectemos
+## 🤝 Connect
 
 <div align="center">
   
