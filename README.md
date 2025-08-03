@@ -7,7 +7,7 @@
 ## 🚀 Sobre mí
 
 ```javascript
-const zamir = {
+const developer = {
     pronouns: "he/him",
     code: ["JavaScript", "Python", "Java", "TypeScript", "C++"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -93,15 +93,17 @@ const zamir = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zamir5895&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎨 Proyectos Destacados
+## 🎨 Algunos de mis proyectos
 
 <div align="center">
-  <a href="https://github.com/zamir5895/proyecto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zamir5895&repo=proyecto-1&theme=dark" alt="Proyecto 1" />
-  </a>
-  <a href="https://github.com/zamir5895/proyecto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zamir5895&repo=proyecto-2&theme=dark" alt="Proyecto 2" />
-  </a>
+  
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🚀 **Proyecto Web** | Aplicación full-stack moderna | React, Node.js, MongoDB |
+| 📱 **App Móvil** | Desarrollo de aplicación móvil | React Native, Firebase |
+| 🎯 **API REST** | Backend escalable y seguro | Python, FastAPI, PostgreSQL |
+| 🌐 **E-commerce** | Plataforma de comercio electrónico | Next.js, Stripe, MySQL |
+
 </div>
 
 ## 🤝 Conectemos
@@ -128,11 +130,3 @@ const zamir = {
   
   ⭐️ From [zamir5895](https://github.com/zamir5895)
 </div>
-
-## 🎯 Objetivos 2024
-
-- [ ] Contribuir a 5 proyectos open source
-- [ ] Lanzar mi propia aplicación web
-- [ ] Aprender Kubernetes y microservicios
-- [ ] Obtener certificación en AWS
-- [ ] Escribir artículos técnicos en mi blog
