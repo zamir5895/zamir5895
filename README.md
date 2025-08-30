@@ -97,7 +97,7 @@ const developer = {
 |---------|-------------|--------------|
 | 🚀 **Connect** | Modern full-stack application | React, Node.js, MongoDB |
 | 🎯 **Matemix** | Scalable and secure backend | Python, FastAPI, PostgreSQL |
-| 🌐 **ShopUtec** | E-commerce platform | Next.js, Stripe, MySQL |
+| 🌐 **ShopUtec** | E-commerce platform | Vue js, Java, MySQL |
 
 </div>
 
