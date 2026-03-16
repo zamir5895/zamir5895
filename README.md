@@ -6,7 +6,7 @@
 
 ## 🚀 About me
 
-Third-year Computer Science student at UTEC 👨‍💻  
+Four-year Computer Science student at UTEC 👨‍💻  
 Passionate about web development and ML.
 
 <!-- 
