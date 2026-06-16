@@ -89,14 +89,6 @@
 <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white" />
 </p>
 
----
-
-### 💼 Experiencia Reciente
-
-- **Balkaned** — Desarrollador Full-Stack Junior · Sistema de transacciones distribuidas con patrón **Saga**, Circuit Breaker/Retry con Resilience4j (99.4% disponibilidad), optimización de queries PostgreSQL/Oracle (-45% tiempo de respuesta).
-- **Walkers** — Desarrollador Full-Stack · Backend en **Go** soportando 200+ usuarios concurrentes (<100ms), funciones serverless en AWS Lambda (-60% costos), frontend con Next.js (SSR/SSG).
-- **Rishi Shala** — Desarrollador Backend · Migración de Python a Go con DDD (+50% throughput), WebSockets en tiempo real (<50ms de latencia).
-- **UTEC** — Asistente de Enseñanza en Cloud Computing (AWS) e Ingeniería de Software (Docker, CI/CD, SonarQube).
 
 ---
 
