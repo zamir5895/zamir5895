@@ -11,11 +11,9 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Bachiller en Ciencias de la Computación en **UTEC** (Top 10%, Beca de Mérito Académico Completa)
+- 🎓 Estudiante en Ciencias de la Computación en **UTEC**
 - 💻 Construyo backends escalables, arquitecturas en la nube y agentes de IA conversacionales
-- 🌱 Actualmente profundizando en **Cloud Computing (AWS)** como Asistente de Enseñanza en UTEC
 - 🤝 Abierto a oportunidades como Full-Stack / Backend Developer
-- 🌐 Idiomas: Español (nativo), Inglés (B2)
 
 ---
 
