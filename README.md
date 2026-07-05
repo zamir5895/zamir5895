@@ -9,15 +9,15 @@
 
 ---
 
-### 🚀 Sobre mí
+###  Sobre mí
 
-- 🎓 Estudiante en Ciencias de la Computación en **UTEC**
-- 💻 Construyo backends escalables, arquitecturas en la nube y agentes de IA conversacionales
-- 🤝 Abierto a oportunidades como Full-Stack / Backend Developer
+-  Estudiante en Ciencias de la Computación en **UTEC**
+-  Construyo backends escalables, arquitecturas en la nube y agentes de IA conversacionales
+-  Abierto a oportunidades como Full-Stack / Backend Developer
 
 ---
 
-### 🛠️ Stack Tecnológico
+###  Stack Tecnológico
 
 **Lenguajes**
 <p>
@@ -90,17 +90,17 @@
 
 ---
 
-### 🌟 Proyectos Destacados
+###  Proyectos Destacados
 
 | Proyecto | Stack | Descripción |
 |---|---|---|
-| 🤖 **Agente de Ventas por WhatsApp** | Python, WhatsApp API, LLM | Agente autónomo que gestiona ventas completas vía WhatsApp Business API, con detección de intenciones y escalado a humano. |
-| 📚 **Plataforma de Tutoría de Matemáticas con IA** | Java, FastAPI, AWS EC2, TypeScript | Plataforma full-stack probada con estudiantes reales, microservicios + LLM, desplegada con auto-escalado en AWS. |
-| ♻️ **Clasificación de Basura con Computer Vision** | Python, ResNet-18, CNN, SVM | Sistema de clasificación de residuos comparando ResNet-18, CNN, SVM y Regresión Logística con extracción de características HOG. |
+|  **Agente de Ventas por WhatsApp** | Python, WhatsApp API, LLM | Agente autónomo que gestiona ventas completas vía WhatsApp Business API, con detección de intenciones y escalado a humano. |
+|  **Plataforma de Tutoría de Matemáticas con IA** | Java, FastAPI, AWS EC2, TypeScript | Plataforma full-stack probada con estudiantes reales, microservicios + LLM, desplegada con auto-escalado en AWS. |
+|  **Clasificación de Basura con Computer Vision** | Python, ResNet-18, CNN, SVM | Sistema de clasificación de residuos comparando ResNet-18, CNN, SVM y Regresión Logística con extracción de características HOG. |
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=zamir5895&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
