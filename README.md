@@ -11,7 +11,7 @@
 
 ###  Sobre mí
 
--  Estudiante en Ciencias de la Computación en **UTEC**
+-  Estudiante en Ciencias de la Computación en **UTEC**, Lima, Peru
 -  Construyo backends escalables, arquitecturas en la nube y agentes de IA conversacionales
 -  Abierto a oportunidades como Full-Stack / Backend Developer
 
