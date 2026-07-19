@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Echo-00ADD8?style=flat" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white" />
